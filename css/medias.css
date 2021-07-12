@@ -1,0 +1,211 @@
+@media screen and (max-width: 540px) {
+    div.cabecalho img {
+        width: 120px;
+    }
+
+    div.cabecalho h2 {
+        font-size: 0.8rem;
+    }
+
+
+    section.mid-box {
+        margin-top: 5.5rem;
+    }
+
+
+
+    div.buttons {
+        width: 90%;
+
+        margin: 3.5rem auto;
+    }
+
+    div.buttons a {
+        font-size: 1.2rem;
+
+        padding: 0.5rem 1.0rem 0.5rem 1.0rem;
+    }
+
+    footer div.rodape {
+        display: none;
+    }
+
+}
+
+
+@media screen and (max-width: 425px) {
+    div.cabecalho img {
+        width: 120px;
+    }
+
+    div.cabecalho h2 {
+        font-size: 0.8rem;
+    }
+
+
+    section.mid-box {
+        margin-top: 4.1rem;
+    }
+
+
+
+    div.buttons {
+        width: 90%;
+
+        margin: 3.5rem auto;
+    }
+
+    div.buttons a {
+        font-size: 1.2rem;
+
+        padding: 0.5rem 1.0rem 0.5rem 1.0rem;
+    }
+
+    footer div.rodape {
+        display: none;
+    }
+}
+
+
+@media screen and (max-width: 411px) {
+    div.cabecalho img {
+        width: 120px;
+    }
+
+    div.cabecalho h2 {
+        font-size: 1.0rem;
+    }
+
+
+    section.mid-box {
+        margin-top: 3.4rem;
+    }
+
+
+
+    div.buttons {
+        width: 100%;
+    }
+
+    div.buttons a {
+        font-size: 1.4rem;
+
+        padding: 0.6rem 1.0rem 0.6rem 1.0rem;
+    }
+
+}
+
+@media screen and (max-width: 375px) {
+    div.cabecalho img {
+        width: 110px;
+    }
+
+    div.cabecalho h2 {
+        font-size: 0.8rem;
+    }
+
+
+    section.mid-box {
+        margin-top: 1.0rem;
+    }
+
+
+
+    div.buttons a {
+        font-size: 1.3rem;
+
+        padding: 0.6rem 0.9rem 0.6rem 0.9rem;
+    }
+}
+
+
+
+
+@media screen and (max-width: 360px) {
+    div.cabecalho img {
+        width: 110px;
+    }
+
+    div.cabecalho h2 {
+        font-size: 0.8rem;
+    }
+
+
+    section.mid-box {
+        margin-top: 2.0rem;
+    }
+
+
+
+    div.buttons a {
+        font-size: 1.3rem;
+
+        padding: 0.6rem 0.9rem 0.6rem 0.9rem;
+    }
+
+}
+
+
+
+
+@media screen and (max-width: 320px) {
+    div.cabecalho img {
+        width: 110px;
+    }
+
+    div.cabecalho h2 {
+        font-size: 0.8rem;
+    }
+
+
+    section.mid-box {
+        margin-top: 0.5rem;
+    }
+
+
+
+    div.buttons {
+        width: 90%;
+
+        margin: 2.5rem auto;
+    }
+
+    div.buttons a {
+        font-size: 1.2rem;
+
+        padding: 0.5rem 0.8rem 0.5rem 0.8rem;
+    }
+
+}
+
+
+
+@media screen and (max-width: 280px) {
+    div.cabecalho img {
+        width: 110px;
+    }
+
+    div.cabecalho h2 {
+        font-size: 0.8rem;
+    }
+
+
+    section.mid-box {
+        margin-top: 0.1rem;
+    }
+
+
+
+    div.buttons {
+        width: 75%;
+
+        margin: 2.5rem auto;
+    }
+
+    div.buttons a {
+        font-size: 1.2rem;
+
+        padding: 0.5rem 0.8rem 0.5rem 0.8rem;
+    }
+
+}

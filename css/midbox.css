@@ -1,0 +1,13 @@
+section.mid-box {
+    width: 50%;
+
+    margin-top: 5.0rem;
+
+    min-width: 320px;
+    max-width: 450px;
+
+    border-radius: 2%;
+
+
+    padding: 1.0rem 0rem 2.0rem 0rem;
+}

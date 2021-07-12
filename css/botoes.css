@@ -1,0 +1,43 @@
+div.buttons {
+    width: 95%;
+
+    margin: 4.0rem auto;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+div.buttons a {
+    display: flex;
+    justify-content: space-between;
+
+    align-items: center;
+
+    border: 1px solid #FFFFFF;
+    color: #FFFFFF;
+    text-decoration: none;
+    font-weight: 300;
+
+    font-size: 1.5rem;
+    padding: 0.5rem 1.0rem 0.5rem 1.0rem;
+    margin: 0rem 0rem 1.0rem 0rem;
+
+    transition: 0.5s ease;
+}
+
+div.buttons a i {
+    padding-left: 3.0rem;
+}
+
+div.buttons a p {
+    padding-right: 3.0rem;
+
+}
+
+div.buttons a:hover {
+    transition: 0.5s ease;
+
+    background: rgba(199, 198, 198, 0.349);
+}
